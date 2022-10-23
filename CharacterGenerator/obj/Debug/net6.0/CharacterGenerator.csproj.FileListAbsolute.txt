@@ -1,0 +1,15 @@
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0\CharacterGenerator.exe
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0\CharacterGenerator.deps.json
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0\CharacterGenerator.runtimeconfig.json
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0\CharacterGenerator.dll
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\bin\Debug\net6.0\CharacterGenerator.pdb
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.csproj.AssemblyReference.cache
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.AssemblyInfo.cs
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.dll
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\refint\CharacterGenerator.dll
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.pdb
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\CharacterGenerator.genruntimeconfig.cache
+C:\Users\MSIa\RiderProjects\CharacterGenerator\CharacterGenerator\obj\Debug\net6.0\ref\CharacterGenerator.dll
